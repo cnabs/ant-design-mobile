@@ -29,7 +29,7 @@ export default {
   },
   innerWrap: {
     alignItems: 'center',
-    backgroundColor: variables.toast_fill,
+    backgroundColor: 'green',
     minWidth: 100,
   },
   iconToast: {
@@ -42,7 +42,7 @@ export default {
     paddingHorizontal: variables.v_spacing_lg,
   },
   content: {
-    color: variables.color_text_base_inverse,
+    color: 'yellow',
     fontSize: variables.font_size_subhead,
   },
   image: {
